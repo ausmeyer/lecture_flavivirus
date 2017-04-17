@@ -1,5 +1,5 @@
 ---
-title       : Tropical Flavivirus Infections
+title       : Tropical Flaviviruses
 author      : Austin Meyer, PhD
 job         : MS4
 framework   : io2012       # {io2012, html5slides, shower, dzslides, ...}
