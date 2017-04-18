@@ -253,6 +253,11 @@ body {background:grey transparent;
   - IgM/IgG/NS1 are all used but have significant drawbacks
   - As before IgM has substantial overlap with JEV
 
+--- &vcenter
+## CDC diagnostic algorithm
+
+![](assets/img/dengue_algorithm.jpg)
+
 ---
 ## Treatment and prevention of Dengue
 
