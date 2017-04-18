@@ -16,7 +16,7 @@ github:
   user: ausmeyer
   repo: lecture_flavivirus
 
---- 
+---
 
 <!-- Limit image width and height -->
 <style type="text/css">
@@ -25,6 +25,16 @@ img {
 }
 body {background:grey transparent;
 </style>
+
+## Roadmap - Hopefully short and sweet
+<br><br>
+- Canadian woman who doesn't have Snowshoe Hare virus
+<br><br><br>
+- American women just gets back from Brazil
+<br><br><br>
+- An American woman is misdiagnosed with flu in Boston
+<br><br><br>
+- A German who had a bad outcome
 
 --- .segue
 ## Case #1
@@ -159,6 +169,8 @@ body {background:grey transparent;
   - Relatively easy to spot... hence the yellow
   
 > - Can occur many times annually as discrete sporadic outbreaks
+  - Modelling suggests around 50 countries affected and about __100,000 severe cases__ annually
+  - Unknown burden of mild disease
   - Currently there is an outbreak in Brazil
   - An outbreak in Angola and Uganda just stopped last semester
 
@@ -174,7 +186,7 @@ body {background:grey transparent;
   - Begins with fever, headache, and myalgias
   - Relatively mild initial disease with some conjunctival injections, facial flushing and bradycardia
   
-> - Some patients progress to florid hemorrhagic fever
+> - Some patients progress to fulminant hemorrhagic fever or hepatorenal dysfunction
 
 > - It may be easiest to distinguish this as hepatitis + hemorrhagic fever, but that occurs in a minority of patients
 
@@ -201,9 +213,9 @@ body {background:grey transparent;
 
 ---
 ## HPI
-> - A 27-year-old woman was seen in the emergency department of this hospital during the summer because of arthralgias and a rash. She had just returned from a trip to Turks and Caicos.
+> - A 27-year-old woman was seen in the emergency department of this hospital during the summer because of myalgias and a rash. She had just returned from a trip to Turks and Caicos.
 
-> - The patient had been well until 5 days before this evaluation, when myalgias in her hands and shoulders developed, along with back pain, neck pain, and a retro-orbital headache.
+> - The patient had been well until 5 days before this evaluation, when myalgias in her legs and shoulders developed, along with back pain, neck pain, and a retro-orbital headache.
 
 > - Later that day, fever occurred (temperature, 39.0°C) and was accompanied by chills, nausea, decreased appetite, and sore throat. She also noted a vaginal ulcer, ulcers on the side of her tongue, decreased taste sensation, and enlarged, tender lymph nodes in her neck and groin. 
 
@@ -288,7 +300,7 @@ body {background:grey transparent;
 
 > - Laboratory analyses showed a slightly elevated C-reactive protein level of 5.2 mg/L (reference range <5.0), but liver function test and complete blood count results were within reference range. 
 
-> - During the next 3 days, the fever subsided, but the patient experienced a sore throat, bilateral conjunctivitis, and a burning sensation of the palms and soles. These symptoms were accompanied by swelling of the hands and increasing arthralgia of the wrists, palms, and fingers. There was no lymphadenopathy. 
+> - During the next 3 days, the fever subsided, but the patient experienced a sore throat, bilateral conjunctivitis, and a burning sensation of the palms and soles. These symptoms were accompanied by swelling of the hands and increasing arthralgia of the wrists, palms, and fingers. There was no lymphadenopathy.
 
 > - Two days later, the patient experienced sudden bilateral dull and metallic hearing; in her left ear, she experienced a very short delay between a sound and her perception of the sound. 
 
@@ -299,17 +311,53 @@ body {background:grey transparent;
 <div class="centered"><font size="7">What does she have?</font size></div>
 
 --- &vcenter
-## Zika is found in much of the tropics
+## Zika is not found in Africa, in general
 
 ![](assets/img/ZV_geography.png)
 
 --- &vcenter
-## Epidemiology and diagnosis of Zika
+## Zika is transmitted through most body fluids
 
+![](assets/img/zika-transmission-infographic.png)
 
+---
+## Disease and epidemiology
 
---- &vcenter
+> - Disease
+  - Mild fever, skin rash, conjunctivitis, muscle and joint pain, malaise or headache. These symptoms normally last for 2-7 days.
+
+> - Epidemiology
+  - 223 Cases in US due to local transmission
+  - First case of local transmission in Texas occured in Brownsville in November
+  - 36,383 in US territories due to local transmission (325 from viremic blood donors)
+  - In November, WHO accepted that this was likely uncontrollable
+  - Currently, 84 countries have local transmission
+
+---
+## Diagnosis 
+
+> - Diagnosis
+  - First 14 days, try nucleic acid tests on serum
+  - First 14 days, should always test urine with nucleic acid test
+  - A positive nucleic acid test is confirmatory
+  - A negative nucleic acid test does not rule out infection
+  - A Zika IgM should be sent, if NAT is negative
+  - IgM is postive from 4 to 90 days post infection
+  - Congenital versus early infancy diagnosis is complicated and often wrong
+  
+> - In summary: Testing is a nightmare, contact the state health department and CDC if you are concerned
+
+---
 ## Treatment and prevention of Zika
+> - No specific treatment
+  - Rarely an issue for adults
+  - Generally, only a problem for neurotropic effects in utero
+  - Many vaccines are in development
+  
+> - For reproductive age people, there is extensive guidance
+  - First virus since Rubella that causes cogenital deformities
+  - Risk of microcephaly with first trimester is likely around 1% but could be higher
+  - https://www.cdc.gov/zika/geo/countries-territories.html
 
 --- .segue
 ## Other flaviviruses
