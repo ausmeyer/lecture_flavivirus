@@ -236,8 +236,40 @@ body {background:grey transparent;
 --- &vcenter
 ## Epidemiology and diagnosis of Dengue
 
---- &vcenter
+> - Four different types
+
+> - In susceptible populations, attack rate can approach 50-70%
+
+> - Interesting decline of DHF in infants as they age out of passive immunity from mother
+
+> - Prior infections potentiate DHF by a complicated mechanism
+
+> - Again most infections are subclinic
+
+> - Clinical diagnosis is unlikely
+  - Best chance is to find Leukopenia, Thrombocytopenia, Neutropenia, and Mild AST/ALT elevation
+  
+> - PCR is prefered in first 5 days of symptoms
+  - IgM/IgG/NS1 are all used but have significant drawbacks
+  - As before IgM has substantial overlap with JEV
+
+---
 ## Treatment and prevention of Dengue
+
+> - In general, even a patient with DHF should not die
+  - Appropriate supportive care reduces mortality 50 to 100 fold
+
+> - If they die one of two things likely happened
+  - They presented way too late
+  - Healthcare providers fluid overloaded them
+  
+> - IVIg has not been shown to provide benefit
+  - Corticosteroids provide no benefit
+
+> - Vaccines
+  - One licensed in Mexico; Dengvaxia
+  - Many others in development
+  - Connection between cross-reactivity and DHF not well established
 
 --- .segue
 ## Case #4
