@@ -381,3 +381,7 @@ body {background:grey transparent;
   
 > - Kyasanur Forest disease virus
   - There is actually a vaccine for this
+
+--- &vcenter
+
+<div class="centered"><font size="7">The End</font size></div>
