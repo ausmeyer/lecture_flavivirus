@@ -36,29 +36,35 @@ body {background:grey transparent;
 
 > - She recently returned from a trip to Thailand where she had bloody diarrhea about two weeks ago that resolved in a day with administration of an unknown antibiotic. Her trip was last minute and she did not consult a travel clinic. She had not traveled abroad previously. Most of her time in country was spent trekking through the forests and rice field areas.
 
-> - No PMH<br>
-    No PSH<br>
-    No Meds<br>
-    No allergies
+> - Histories
+  - No PMH
+  - No PSH
+  - No Meds
+  - No allergies
 
 ---
 ## Objective information
 
-> - On admission<br><br>
-    PE: WNL<br>
-    Labs: WBC = 12.3, Na = 124, Everything else WNL<br>
-    Micro: Thick and thin smears negative
+> - On admission
+  - PE: WNL
+  - Labs: WBC = 12.3, Na = 124, Everything else WNL
+  - Micro: Thick and thin smears negative
 
-> - On 2nd day post-admission<br><br>
-    PE: Diminished consciousness, neck stiffness, drooling, lower extremity stiffness
+> - On 2nd day post-admission
+  - Diminished consciousness
+  - Neck stiffness
+  - Drooling
+  - Lower extremity stiffness
 
-> - Blood: <br>
-    Negative for CHIKV, rabies, herpes B, Snowshoe hare virus<br>
-    Positive for Dengue IgM, WNV (1:10 titer) <br><br>
-    LP: Leuks = 218, PMN = 52%, Protein = 82 mg/dL, Glucose = 78 mg/dL<br>
-    PCR: Negative for bacterial, fungal, mycobacterial, HSV, EBV, WNV, adenovirus, and enterovirus<br>
-    Rectal Swab: Positive for Salmonella paratyphi B<br>
-    MRI: Normal
+---
+## Objective information
+> - Blood:
+  - Negative for CHIKV, rabies, herpes B, Snowshoe hare virus
+  - Positive for Dengue IgM, WNV (1:10 titer)
+> - LP: Leuks = 218, PMN = 52%, Protein = 82 mg/dL, Glucose = 78 mg/dL
+  - PCR: Negative for bacterial, fungal, mycobacterial, HSV, EBV, WNV, adenovirus, and enterovirus
+> - Rectal Swab: Positive for Salmonella paratyphi B
+> - MRI: Normal
 
 --- &vcenter
 
@@ -94,13 +100,21 @@ body {background:grey transparent;
 ---
 ## More information
 
-> - Platelets = 98K, WBC = 4K, Cr = 6.9, BUN = 151, AlkPhos = 228
+> - CBC and CMP
+  - Platelets = 98K, WBC = 4K
+  - Cr = 6.9, BUN = 151, Alk Phos = 228
 
-> - ALT/AST = 23K/49K, Tbili = 3.5, Dbili = 2.6
+> - Liver Function
+  - ALT/AST = 23K/49K
+  - Tbili = 3.5
+  - Dbili = 2.6
 
-> - PT = 26% normal, INR = 3.3, CRP = 13.8
+> - Coagulation studies
+  - PT = 26% normal
+  - INR = 3.3
+  - CRP = 13.8
 
-> - What do we think she has?
+> - __What do we think she has?__
 
 --- &vcenter
 ## The next day her eye looks like this
@@ -197,21 +211,22 @@ body {background:grey transparent;
 --- .segue
 ## Other flaviviruses
 
+---
+## Non-tropical flaviviruses
+
+> - Hepatitis C Virus... should be comfortable here
+
 > - St. Louis Encephalitis
-  - Stuff
+  - Mostly around bird reservoirs
   
 > - West Nile Virus
-  - Stuff
+  - Could be tropical or not
   
 > - Omsk Virus
-  - Stuff
+  - Found only in Russia
   
 > - Tick-borne Encephalitis
-  - Stuff
+  - Many different viruses fall in here
   
 > - Kyasanur Forest disease virus
-  - Stuff
-
---- &vcenter
-## Keep in mind there are other flaviviruses that are not necessarily tropical:
-
+  - There is actually a vaccine for this
