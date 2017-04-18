@@ -76,10 +76,36 @@ body {background:grey transparent;
 ![](assets/img/jev_geography.png)
 
 --- &vcenter
-## Epidemiology and diagnosis of JEV
+## Epidemiology of JEV
 
---- &vcenter
-## Treatment and prevention of JEV
+> - Initial presentation is sometimes confused with polio
+  - Early symptoms resemble flu-like illness--fever, headache, lethergy, nausea, vomiting--and advances to florid encephalitis
+> - First discovered in 1934, but summertime outbreaks with thousands of cases were described previously as Japanese B encephalitis
+
+> - Reported cases are vastly underreporting based on serological surveys
+  - Approximately 35,000 - 50,000 cases and 10,000 - 15,000 deaths are reported annually
+  - This is the most commonly reported encephalitis virus worldwide
+> - __"More than 99% of infections with JEV are subclinical; consequently, in areas with endemic transmission, infections acquired naturally at an early age result in immunity in more than 80% of young adults."__ (Mandell 8e)
+
+> - __"In an era in which polio has declined to the point of eradication, JE is now preeminent among causes of pediatric CNS infections in the region."__ (Mandell's 8e)
+
+
+---
+## Diagnosis, treatment and prevention of JEV
+
+> - Diagnosis is best with a PCR panel on blood (true for most flaviviruses)
+  - Isolation from CSF is often unsuccessful but is useful during fulminant disease
+  - There is a lot of overlap in arbo-flavivirus serologies
+  
+> - No specific treatment
+  - Supportive care should focus on the electrolyte abnormalities that lead to seizures
+
+> - Vaccine is available in the US by brand name __Ixiaro__
+  - Approved in those 2 months and up (doses change with age)
+  - Primary series is 2 IM injections 28 days apart (plan ahead)
+  - This is an inactivated vaccine
+  - No clinical efficacy data is available
+  - However, other vaccines licensed in the endemic have shown dramatic reductions in infection rates
 
 --- .segue
 ## Case #2
@@ -126,11 +152,49 @@ body {background:grey transparent;
 
 ![](assets/img/YF_geogrpahy.png)
 
---- &vcenter
+---
 ## Epidemiology and diagnosis of YF
 
---- &vcenter
-## Treatment and prevention of YF
+> - Has been around a long time; at least until 1600s
+  - Relatively easy to spot... hence the yellow
+  
+> - Can occur many times annually as discrete sporadic outbreaks
+  - Currently there is an outbreak in Brazil
+  - An outbreak in Angola and Uganda just stopped last semester
+
+> - Approximately 200,000 cases annually
+  - Survives the dry season in mosquito eggs
+
+---
+## Clinical disease from YF
+
+> - Initial infection
+  - 5% to 50% of infections are asymptomatic
+  - Incubation time of 3-6 days
+  - Begins with fever, headache, and myalgias
+  - Relatively mild initial disease with some conjunctival injections, facial flushing and bradycardia
+  
+> - Some patients progress to florid hemorrhagic fever
+
+> - It may be easiest to distinguish this as hepatitis + hemorrhagic fever, but that occurs in a minority of patients
+
+> - Albuminuria can usually distinguish YF from other types of hepatitis
+
+---
+## Diagnosis, treatment and prevention of YF
+
+> - Can diagnosis serologically but it is rife with issues
+  - Lots of cross-reactivity
+  - Vaccination status can make IgM positive
+  - In first several days, PCR can be successful, but by the time the fulminant symptoms appear the virus is typically undetectable
+  
+> - No specific treatment
+  - Avoid aspirin and NSAIDS
+  - Protect patient from mosquito exposure for 5 days after onset
+  
+> - Vaccine is available
+  - Approved for 9 months and older
+  - Live-attenuated vaccine (Check contraindications)
 
 --- .segue
 ## Case #3
